@@ -8,8 +8,8 @@ export default function Hero() {
       <div className="absolute inset-0 z-0 bg-brand-black">
         <div className="absolute inset-0 bg-gradient-to-b from-brand-black/80 via-brand-black/40 to-brand-black z-10" />
         <img 
-          src="https://images.unsplash.com/photo-1497935586351-b67a49e012bf?auto=format&fit=crop&q=80&w=2000" 
-          alt="Coffee Background" 
+          src="/images/premium_coffee_hero.png" 
+          alt="Premium Coffee Background" 
           className="w-full h-full object-cover opacity-80"
         />
       </div>
